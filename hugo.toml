@@ -5,3 +5,13 @@ theme = 'ananke'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+# config.toml (or your Hugo config file)
+
+# 1. Tell Hugo your site’s real home URL
+baseURL = "https://www.nathankamgang.com/"
+
+# 2. Make asset links relative to the page,
+#    so you don’t get extra directory prefixes
+relativeURLs = true
+canonifyURLs = false
