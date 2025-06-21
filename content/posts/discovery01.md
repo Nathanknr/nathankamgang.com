@@ -23,11 +23,11 @@ For an operation to be useful, it must be well-defined. If an operation is a mac
 
 Consider the simple equation:
 
-$$x+2=3$$
+$$ x+2=3 $$
 
-To solve for \\(x\\), we apply the subtraction operation to both sides, isolating \\(x\\) on the left side:
+To solve for \(x\), we apply the subtraction operation to both sides, isolating \\(x\\) on the left side:
 
-$$x=3-2$$
+$$ x=3-2 $$
 
 We can confidently conclude that \\(x=1\\) because the operation \\(3-2\\) gives a unique and constant answer.
 
