@@ -1,0 +1,12 @@
+*.md
+
+# Hugo generated files
+public/
+resources/_gen/
+hugo_stats.json
+
+# IDE files
+.zed/
+
+# Any drafts you don't want to publish
+content/posts/website-s-drafts/

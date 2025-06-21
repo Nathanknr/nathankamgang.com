@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Nathan Kamgang</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Nathan Kamgang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 May 2025 15:57:55 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jun 2025 12:48:15 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Discovery01</title>
-      <link>http://localhost:1313/posts/discovery01/</link>
-      <pubDate>Wed, 28 May 2025 15:57:55 +0100</pubDate>
-      <guid>http://localhost:1313/posts/discovery01/</guid>
-      <description></description>
+      <title>What&#39;s the link between all the different in solving system of linear equations</title>
+      <link>http://localhost:1313/website-s-drafts/2025-06-21-whats-the-link-between-all-the-different-in-solving-system-of-linear-equations/</link>
+      <pubDate>Sat, 21 Jun 2025 12:48:15 +0100</pubDate>
+      <guid>http://localhost:1313/website-s-drafts/2025-06-21-whats-the-link-between-all-the-different-in-solving-system-of-linear-equations/</guid>
+      <description>&lt;h2 id=&#34;the-question&#34;&gt;The Question&lt;/h2&gt;&#xA;&lt;h2 id=&#34;my-exploration&#34;&gt;My Exploration&lt;/h2&gt;&#xA;&lt;h2 id=&#34;key-insights&#34;&gt;Key Insights&lt;/h2&gt;&#xA;&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;Originally explored as &lt;a href=&#34;./home/nathan/Resources/Notes/Discoveries/15_whats-the-link-between-all-the-different-in-solving-system-of-linear-equations&#34;&gt;Discovery #15&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>First</title>
-      <link>http://localhost:1313/posts/first/</link>
-      <pubDate>Wed, 28 May 2025 15:39:25 +0100</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
-      <description>&lt;h1 id=&#34;this-is--just-a-atest&#34;&gt;This is  just a atest&lt;/h1&gt;&#xA;&lt;p&gt;What do I need to add&lt;/p&gt;&#xA;&lt;h2 id=&#34;second-level&#34;&gt;second level&lt;/h2&gt;&#xA;&lt;p&gt;I love this w&lt;/p&gt;</description>
+      <title>You use them but do you know what an operation is in group theory?</title>
+      <link>http://localhost:1313/discovery01/</link>
+      <pubDate>Wed, 28 May 2025 15:57:55 +0100</pubDate>
+      <guid>http://localhost:1313/discovery01/</guid>
+      <description>&lt;h1 id=&#34;understanding-operations-in-group-theory&#34;&gt;Understanding Operations in Group Theory&lt;/h1&gt;&#xA;&lt;p&gt;What&#39;s dark chocolate?&lt;/p&gt;&#xA;&lt;p&gt;Dark chocolate is a form of chocolate made from...&lt;/p&gt;&#xA;&lt;p&gt;Can you understand what dark chocolate is if you don&#39;t know anything about chocolate? That&#39;s the same thing for operations in group theory.&lt;/p&gt;&#xA;&lt;p&gt;A group is a set equipped with a binary operation that satisfies four axioms. Like the definition of dark chocolate, the notion of operation is coupled with the definition of a group. Learn about operations and sharpen your knowledge of groups for free!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

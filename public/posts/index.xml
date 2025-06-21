@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Nathan Kamgang</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Nathan Kamgang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 May 2025 15:57:55 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Discovery01</title>
-      <link>http://localhost:1313/posts/discovery01/</link>
+      <title>You use them but do you know what an operation is in group theory?</title>
+      <link>http://localhost:1313/posts/en/website-s-drafts/discovery01/</link>
       <pubDate>Wed, 28 May 2025 15:57:55 +0100</pubDate>
-      <guid>http://localhost:1313/posts/discovery01/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>First</title>
-      <link>http://localhost:1313/posts/first/</link>
-      <pubDate>Wed, 28 May 2025 15:39:25 +0100</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
-      <description>&lt;h1 id=&#34;this-is--just-a-atest&#34;&gt;This is  just a atest&lt;/h1&gt;&#xA;&lt;p&gt;What do I need to add&lt;/p&gt;&#xA;&lt;h2 id=&#34;second-level&#34;&gt;second level&lt;/h2&gt;&#xA;&lt;p&gt;I love this w&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/en/website-s-drafts/discovery01/</guid>
+      <description>&lt;p&gt;// TODO: Check the overall article for language inconsitencies&#xA;// TODO: Change the article tag draft to false&#xA;// TODO: Move the article outside of website draft into en/&lt;/p&gt;&#xA;&lt;p&gt;What&amp;rsquo;s dark chocolate?&#xA;Dark chocolate is a form of chocolate made from&amp;hellip;&#xA;Can you understand what dark chocolate is if you don&amp;rsquo;t know anything about chocolate? That&amp;rsquo;s the same thing for operations in group theory.&#xA;A group is a set equipped with a binary operation that satisfies four axioms.Like the definition of dark chocolate, the notion of operation is coupled with the definition of a group. Learn about operations and sharpen your knowledge of groups for free!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
