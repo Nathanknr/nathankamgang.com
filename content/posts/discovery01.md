@@ -25,7 +25,7 @@ Consider the simple equation:
 
 $$ x+2=3 $$
 
-To solve for \(x\), we apply the subtraction operation to both sides, isolating \\(x\\) on the left side:
+To solve for \\(x\\), we apply the subtraction operation to both sides, isolating \\(x\\) on the left side:
 
 $$ x=3-2 $$
 
