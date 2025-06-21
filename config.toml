@@ -2,9 +2,9 @@ baseURL = "https://www.nathankamgang.com/"
 languageCode = "en-us"
 title = "Nathan Kamgang"
 theme = "ananke"
-
 relativeURLs = true
 canonifyURLs = false
+defaultContentLanguage = "en"
 
 # Enable LaTeX/Math rendering
 [markup]
@@ -44,19 +44,17 @@ canonifyURLs = false
   [caches.images]
     dir = ":cacheDir/images"
 
-# Multi-language support
+# Multi-language support (fixed)
 [languages]
   [languages.en]
     title = "Nathan Kamgang"
     weight = 1
-    contentDir = "content/posts/en"
     languageCode = "en-us"
     languageName = "English"
     
   [languages.fr]
     title = "Nathan Kamgang"
     weight = 2
-    contentDir = "content/fr"
     languageCode = "fr"
     languageName = "Français"
 
@@ -74,4 +72,3 @@ canonifyURLs = false
 [[params.ananke_socials]]
   name = "twitter"
   url = "https://twitter.com/GoHugoIO"
-

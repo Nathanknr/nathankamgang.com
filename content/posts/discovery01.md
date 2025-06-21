@@ -1,13 +1,10 @@
 +++
 date = '2025-05-28T15:57:55+01:00'
-draft = true
-title = 'Discovery01'
-+++
-+++
-date = '2025-05-28T15:57:55+01:00'
 draft = false 
 title = 'You use them but do you know what an operation is in group theory?'
 +++
+
+
 # Understanding Operations in Group Theory
 
 What's dark chocolate?
