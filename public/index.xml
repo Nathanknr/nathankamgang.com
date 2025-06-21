@@ -10,13 +10,6 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>You use them but do you know what an operation is in group theory?</title>
-      <link>http://localhost:1313/posts/discovery01/</link>
-      <pubDate>Wed, 28 May 2025 15:57:55 +0100</pubDate>
-      <guid>http://localhost:1313/posts/discovery01/</guid>
-      <description>&lt;h1 id=&#34;understanding-operations-in-group-theory&#34;&gt;Understanding Operations in Group Theory&lt;/h1&gt;&#xA;&lt;p&gt;What&#39;s dark chocolate?&lt;/p&gt;&#xA;&lt;p&gt;Dark chocolate is a form of chocolate made from...&lt;/p&gt;&#xA;&lt;p&gt;Can you understand what dark chocolate is if you don&#39;t know anything about chocolate? That&#39;s the same thing for operations in group theory.&lt;/p&gt;&#xA;&lt;p&gt;A group is a set equipped with a binary operation that satisfies four axioms. Like the definition of dark chocolate, the notion of operation is coupled with the definition of a group. Learn about operations and sharpen your knowledge of groups for free!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>You use them but do you know what an operation is in group theory?</title>
       <link>http://localhost:1313/posts/en/discovery01/</link>
       <pubDate>Wed, 28 May 2025 15:57:55 +0100</pubDate>
       <guid>http://localhost:1313/posts/en/discovery01/</guid>
